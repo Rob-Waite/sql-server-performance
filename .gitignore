@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# SQL Server / local development
+*.bak
+*.mdf
+*.ldf
+
+# IDE / editor
+.vscode/
+.idea/
